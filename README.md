@@ -1,2 +1,2 @@
-# Todo-list-With-Counter-App-And-Leave-Msg-With-CombinedReducer-Redux
+# Todo-List-Uding-Redux-Thunk
 Created with CodeSandbox
